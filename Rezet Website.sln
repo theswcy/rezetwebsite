@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rezet Website", "Rezet Website.csproj", "{A729E7CB-21AA-4563-9EED-6F07D1CEF864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A729E7CB-21AA-4563-9EED-6F07D1CEF864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A729E7CB-21AA-4563-9EED-6F07D1CEF864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A729E7CB-21AA-4563-9EED-6F07D1CEF864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A729E7CB-21AA-4563-9EED-6F07D1CEF864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D53D89-7B9D-4AAC-8208-1FC58F45CCD2}
+	EndGlobalSection
+EndGlobal
